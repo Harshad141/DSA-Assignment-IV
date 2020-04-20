@@ -1,0 +1,5 @@
+Q:  How array is different from the linked list
+Ans:- Difference between Array and Linked listThe major difference between Array and Linked list
+regards to their structure. Arrays are index based data structure where each element
+associated with an index. On the other hand, Linked list relies on references where each
+node consists of the data and the references to the previous and next element.
